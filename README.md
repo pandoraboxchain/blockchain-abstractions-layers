@@ -1,5 +1,7 @@
 Recent blossom of different blockchain projects creates a need for a proper blockchain architecture abstraction — some sort of a standard which can help developers and industry experts to easily understand how are different parts of blockchain technosphere interrelate.
 
+![](1-N1f-31dvi6QiuN2J0IIhWA.png)
+
 # 1. P2P Network Layer
 
 P2P network layer is responsible for inter-node communications: discovery and data transfer 
