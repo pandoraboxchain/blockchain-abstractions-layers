@@ -46,7 +46,7 @@ market are Bitcoin transaction engine executing Bitcoin Script bytecodes (Turing
 Ethereum Virtual Machine (Turing-complete EVM). But they are not the only ones. While previous years were 
 filled with new consensuses, this year (2017) is specifically notable for new virtual machine announcements. 
 These are: WebAssembly (WASM) that is being integrated into the Parity client for Ethereum, RChain virtual 
-machine with concurrency, the TrueBit virtual machine presented these days on DEVCON3, EILE (VM by Cardano), 
+machine with concurrency, the TrueBit virtual machine presented these days on DEVCON3, IELE (VM by Cardano), 
 Common language runtime-based VM by NEO… (I’m quite sure, there are a lot of others).
 
 Such virtual machines can be frequently used outside of the original blockchain on top of other consensuses 
